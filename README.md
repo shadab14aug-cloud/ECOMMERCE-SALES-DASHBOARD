@@ -23,9 +23,30 @@ The dashboard uses a variety of advanced charts to provide clear and actionable 
 * **Pie Chart:** To display the **Sum of Quantity by Payment Mode** (COD, UPI, Debit Card).
 * **Line / Area / Trend Chart:** For **Sum of Profit by Month** to identify seasonal trends and profit fluctuations throughout the year (January to December).
 
-## 📸 Dashboard Preview
-<img width="989" height="546" alt="dashboard_overview" src="https://github.com/user-attachments/assets/69a81314-6b3d-461a-984f-c969ba3a7162" />
-<img width="871" height="619" alt="DASHBOARD 09" src="https://github.com/user-attachments/assets/07dcbd9a-405a-4d1a-bbe0-3aca58fa689a" />
+## 📸 Dashboard Preview#
+<img width="995" height="572" alt="PROFESSIONAL DASHBOARD" src="https://github.com/user-attachments/assets/840e5543-35db-434e-a320-ebdaad375862" />
+<img width="871" height="619" alt="DASHBOARD 09" src="https://github.com/user-attachments/assets/dc9ed3f0-d2d6-4dbb-8cf7-e595a2e0e310" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
