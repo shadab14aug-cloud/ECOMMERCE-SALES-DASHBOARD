@@ -24,7 +24,8 @@ The dashboard uses a variety of advanced charts to provide clear and actionable 
 * **Line / Area / Trend Chart:** For **Sum of Profit by Month** to identify seasonal trends and profit fluctuations throughout the year (January to December).
 
 ## 📸 Dashboard Preview#
-<img width="995" height="572" alt="PROFESSIONAL DASHBOARD" src="https://github.com/user-attachments/assets/840e5543-35db-434e-a320-ebdaad375862" />
+<img width="1127" height="632" alt="TOADY Screenshot 2026-10-22 090516" src="https://github.com/user-attachments/assets/f5b810cb-124e-44cb-9f63-92255f0153fc" />
+
 <img width="871" height="619" alt="DASHBOARD 09" src="https://github.com/user-attachments/assets/dc9ed3f0-d2d6-4dbb-8cf7-e595a2e0e310" />
 
 
